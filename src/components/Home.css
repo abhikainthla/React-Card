@@ -1,0 +1,27 @@
+.total{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+
+}
+.home{
+    margin: 50px 25px;
+}
+.total-button {
+    background-color: #645cff;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+.clear{
+display: flex;
+justify-content: center;
+}
+
+.clear-button{
+    background-color: #c1beff;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
